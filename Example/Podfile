@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MYPHighlighter_Example' do
+  pod 'MYPHighlighter', :path => '../'
+
+  target 'MYPHighlighter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
