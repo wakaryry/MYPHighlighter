@@ -1,0 +1,6 @@
+framework module MYPHighlighter {
+  umbrella header "MYPHighlighter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MYPHighlighter (0.1.0)
+
+DEPENDENCIES:
+  - MYPHighlighter (from `../`)
+
+EXTERNAL SOURCES:
+  MYPHighlighter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MYPHighlighter: b3e8ac23c7d53c3fb5dcdfcf4dc452b130a363cb
+
+PODFILE CHECKSUM: afd76a130cc33b3e9dbd9498eb75a9e0df5a71bf
+
+COCOAPODS: 1.5.2
